@@ -1,1 +1,3 @@
-# blog_data
+This is for Blog
+===
+https://velog.io/@masew8
